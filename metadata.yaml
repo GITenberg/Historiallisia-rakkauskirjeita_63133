@@ -1,5 +1,5 @@
 _repo: Historiallisia-rakkauskirjeita_63133
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Finne, Jalmari
@@ -8,7 +8,12 @@ contributor:
     gutenberg_agent_id: '43291'
     url: http://www.gutenberg.org/2009/agents/43291
     wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Finne
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63133#Historiallisia-rakkauskirjeita
 gutenberg_issued: '2020-09-06'
 gutenberg_type: Text
 identifiers:
