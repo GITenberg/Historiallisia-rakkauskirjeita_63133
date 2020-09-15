@@ -1,0 +1,28 @@
+_repo: Historiallisia-rakkauskirjeita_63133
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Finne, Jalmari
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '43291'
+    url: http://www.gutenberg.org/2009/agents/43291
+    wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Finne
+description: ''
+gutenberg_issued: '2020-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63133'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love-letters -- Translations into Finnish'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: Alkulause -- Mariana di Alcafarado -- Jonathan Swift -- Jean-Jacques
+  Rousseau -- Ugo Foscolo -- Alfred de Musset ja George Sand -- Alexander Herzen --
+  Ferdinand Lassalle -- Historiallisia tietoja.
+title: Historiallisia rakkauskirjeitä
+url: http://www.gutenberg.org/ebooks/63133
